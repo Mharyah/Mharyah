@@ -2,7 +2,7 @@
 - :+1: I'm @Mharyah
 - 👀 I’m interested in studying programming
 - 🌱 I’m currently learning HTML and CSS
-- 📫 Contact by email: cruz.rosa.maria@escola.pr.gov.br
+- 📫 Contact by [email](cruz.rosa.maria@escola.pr.gov.br)
 
 <!---
 Mharyah/Mharyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
